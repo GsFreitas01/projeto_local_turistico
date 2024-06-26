@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+
+
+#page {
+    width: 1240px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 88px;
+} 
+
+.busan {
+    border-bottom: 1px solid #D9D9D9;
+}
+.bb{
+    border-bottom: 1px solid #D9D9D9;
+}
+#templo1{
+    margin-top: 64px;
+}
+
+.spacing{
+    margin-bottom: 64px;
+}
+
+.spacing3{
+    margin-top: 20px;
+}
+
+ul{
+    margin-left: 22px;
+    color: #0C51A7;
+    list-style-position: inside;
+    list-style: none;
+}
+
+li{
+    position: relative;
+
+}
+
+li::before{
+    content: '';
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    background-color: rgb(3, 2, 3);
+    border-radius: 50%;
+    left: -10px;
+    top: 48%;
+}
+
+.spacing2{
+    margin-bottom: 48px;
+}
+
+#templo2{
+    margin-top: 48px;
+}
+
+#yongdusan{
+    margin-bottom: 40px;
+}
+
+.purple{
+    color: #591B98;
+}
+.pink{
+    color: #E5245E;
+}
+
+.orange{
+    color: #E95E10;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 16px;
+}
+
+
+.bold {
+    font-weight: 600;
+}
+
+.red-color{
+    color:#E1624F;
+}
+
+
+img {
+    width: 100%;
+}
+
+
+.busan-text {
+    text-align: center;
+    padding: 24px 8px;
+}
+
+.margin-bottom40 {
+    padding: 8px 0px 40px 0px;
+}
+
+
+.final{
+    text-align: center;
+    margin-top: 80px;
+    width: 1240px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 40px;
+    
+}
+
+footer{
+    font-family: "Alice", serif;
+    text-align: center;
+    padding-bottom: 48px;
+    margin-top: 48px ;
+}
+
+footer img {
+    vertical-align: middle;
+    width: 14px;
+    height: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
